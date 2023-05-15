@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @a-wessels
+- 👀 I’m interested in becoming a full stack developer!
+- 🌱 I’m currently learning HTML, CSS, and JavaScript!
+- 💞️ I’m looking to collaborate on anything that people are willing to teach me. 🙂
+- 📫 You can reach me at aydanwessels@gmail.com.
