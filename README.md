@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-wessels
 - 👀 I’m interested in becoming a full stack developer!
-- 🌱 I’m currently learning HTML, CSS, and JavaScript!
+- 🌱 I’m proficient in HTML, CSS, and JavaScript, and I'm currently learning Golang!
 - 💞️ I’m looking to collaborate on anything that people are willing to teach me. 🙂
 - 📫 You can reach me at aydanwessels@gmail.com.
