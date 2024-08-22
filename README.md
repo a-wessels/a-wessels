@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-wessels
-- 👀 I’m interested in becoming a full stack developer!
+- 👀 I’m always looking to move up in my career as a developer in Machine Code!
 - 🌱 I’m proficient in HTML, CSS, Python, and JavaScript, and I'm currently learning Golang!
-- 💞️ I’m looking to collaborate on anything that people are willing to teach me. 🙂
+- 💞️ I’m looking to collaborate on anything that people are willing to teach me something new. 🙂
 - 📫 You can reach me at aydanwessels@gmail.com.
