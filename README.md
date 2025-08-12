@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-wessels
 - 👀 I’m always looking to move up in my career as a developer in Machine Learning!
-- 🌱 Angular, ASP.NET Core, C#, TypeScript, JavaScript, Python, Java, SQL, HTML5, CSS3, Materialize CSS currently improving my depth of understanding algorithms and AI models!
+- 🌱 Ever developing developer in Angular, ASP.NET Core, C#, TypeScript, JavaScript, Python, Java, SQL, HTML5/CSS3 and others! Currently improving my depth of understanding algorithms and AI models!
 - 💞️ I’m looking to collaborate on anything that people are willing to teach me something new. 🙂
 - 📫 You can reach me at aydanwessels@gmail.com.
